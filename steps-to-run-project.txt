@@ -1,0 +1,22 @@
+To run your Product Inventory Management project on a local system, follow these steps:
+
+Prerequisites:
+--------------
+	1. Ensure you have a web browser installed (Google Chrome, Firefox, Edge).
+	2. Ensure you have installed Visual Studio Code.
+	3. Please install one extension in Visual Studio Code (Live Server Extension).
+
+
+Step-by-Step Guide:
+-------------------
+	1. Download the product-inventory-management.zip to your local directory.
+	2. Unzip the product-inventory-management.zip file to your local directory.
+	3. Open the unzipped folder and make sure you are in parent directory of product-inventory-management.
+	4. Right-click and click on Open with VSCode option.
+	5. Start a Local Server (Optional but Recommended)
+		a. Open the project directory in Visual Studio Code, if project directory is not already opened.
+		b. Install the "Live Server" extension if you haven't already installed it.
+		c. Right-click on inventory.html and select "Open with Live Server".
+		d. Your default web browser will automatically opened a URL, if not then follow step 6.
+	6. Open any Web Browser and hit this URL: 
+		http://127.0.0.1:5500/inventory.html
